@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+EXCHANGE RATE
+
+Exchange for currency app template
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -36,3 +36,69 @@
     transform: rotate(360deg);
   }
 }
+
+.css-yk16xz-control{
+  max-width: 300px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.css-2b097c-container{
+  margin-top: 20px;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ExchangeBox{
+  height: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  border: #282c34;
+  border-style: solid;
+  border-radius: 5px;
+  line-height: 1.5;
+}
+.InputRate{
+  margin-top: 20px;;
+  width: 300px;
+  height: 20px;
+}
+.Value{
+  display: inline;
+  float: right;
+  padding-right: 20px;
+}
+.CurrencyType{
+  float: left;
+  padding-left: 20px;
+}
+.CurrencyRate{
+  display: block;
+  float: left;
+  padding-left: 20px;
+}
+.CurrencyName{
+  display: block;
+  float: left;
+  padding-left: 20px;
+}
+.ButtonSubmit{
+  max-width: 300px;
+  width: 100%;
+  margin-top:20px;
+}
+.DeleteList{
+  display: block;
+  cursor: pointer;
+  border-style: none;
+ margin-top: 30px;
+ margin-left: auto;
+  margin-right: auto;
+  max-width: 290px;
+  width: 100%;
+
+}
